@@ -10,6 +10,12 @@ Stylelint declaration order config build upon [`stylelint-order`](https://github
 
 ## Installation
 
+Make sure you have `stylelint` installed:
+```bash
+npm install --save-dev stylelint
+```
+
+then install the config:
 ```bash
 npm install --save-dev stylelint-config-syzygy-order
 ```
