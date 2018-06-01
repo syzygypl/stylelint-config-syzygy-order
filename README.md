@@ -1,6 +1,8 @@
 # stylelint-config-syzygy-order
 > SYZYGY [`stylelint`](https://github.com/stylelint/stylelint) config for declaration order.
 
+Stylelint declaration order config build upon [`stylelint-order`](https://github.com/hudochenkov/stylelint-order) plugin.
+
 ## Rules
 
 * Based on [Idiomatioc CSS declaration order](https://github.com/necolas/idiomatic-css#declaration-order).
