@@ -174,6 +174,7 @@ module.exports = {
             "text-align",
             "text-decoration",
             "text-transform",
+            "text-indent",
             "white-space",
             "word-break",
             "word-wrap",
