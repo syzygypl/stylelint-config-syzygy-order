@@ -57,6 +57,7 @@ module.exports = {
             "flex",
             "flex-basis",
             "flex-direction",
+            "flex-flow",
             "flex-grow",
             "flex-shrink",
             "flex-wrap",
@@ -176,6 +177,9 @@ module.exports = {
             "white-space",
             "word-break",
             "word-wrap",
+            "text-rendering",
+            "font-smoothing",
+            "letter-spacing",
           ],
         },
         {
@@ -204,6 +208,14 @@ module.exports = {
             "animation-timing-function",
             "will-change",
             "perspective",
+          ],
+        },
+        {
+          "emptyLineBefore": "never",
+          "order": "flexible",
+          "properties": [
+            "cursor",
+            "pointer-events",
           ],
         },
       ],
