@@ -1,4 +1,4 @@
-# 1.0.1 – 1.0.2
+# 1.0.1 – 1.0.3
 -   Add multiple missing properties
 
 # 1.0.0
