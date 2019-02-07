@@ -52,6 +52,7 @@ module.exports = {
           "emptyLineBefore": "never",
           "order": "flexible",
           "properties": [
+            "box-sizing",
             "display",
             "float",
             "flex",
@@ -175,6 +176,7 @@ module.exports = {
             "text-decoration",
             "text-transform",
             "text-indent",
+            "text-overflow",
             "white-space",
             "word-break",
             "word-wrap",
@@ -217,6 +219,7 @@ module.exports = {
           "properties": [
             "cursor",
             "pointer-events",
+            "filter",
           ],
         },
       ],
