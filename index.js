@@ -54,6 +54,7 @@ module.exports = {
           "properties": [
             "box-sizing",
             "display",
+            "table-layout",
             "float",
             "flex",
             "flex-basis",
