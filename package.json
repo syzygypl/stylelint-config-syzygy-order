@@ -18,13 +18,16 @@
   "files": [
     "index.js"
   ],
+  "engines": {
+    "node": "10.16.3"
+  },
   "dependencies": {
-    "stylelint-order": "^0.8.1"
+    "stylelint-order": "^3.1.1"
   },
   "devDependencies": {
-    "stylelint": "^9.2.1"
+    "stylelint": "^11.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^8.3.0 || ^9.0.0"
+    "stylelint": ">10.0.0"
   }
 }
