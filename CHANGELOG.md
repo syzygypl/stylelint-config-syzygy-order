@@ -1,3 +1,6 @@
+# 1.1.0
+-   Update all outdated dependencies
+
 # 1.0.5
 -   Add missing grid properties
 
