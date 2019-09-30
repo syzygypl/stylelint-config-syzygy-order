@@ -18,9 +18,6 @@
   "files": [
     "index.js"
   ],
-  "engines": {
-    "node": "10.16.3"
-  },
   "dependencies": {
     "stylelint-order": "^3.1.1"
   },
