@@ -1,4 +1,4 @@
-# TBA
+# 2.0.0
 - Upgrade dependencies due to major changes in new version of `stylelint` (^14.0.0).
 
 # 1.1.0 - 1.1.1
