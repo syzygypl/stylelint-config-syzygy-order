@@ -1,4 +1,4 @@
-# TBA
+# 2.0.1
 - Add `gap` property
 
 # 2.0.0
