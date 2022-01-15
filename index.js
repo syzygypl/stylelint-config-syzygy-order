@@ -72,6 +72,7 @@ module.exports = {
             "grid-template-areas",
             "grid-template-columns",
             "grid-template-rows",
+            "gap",
             "table-layout",
             "float",
             "flex",
