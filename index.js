@@ -19,11 +19,6 @@ module.exports = {
         "rules",
         {
           "type": "at-rule",
-          "name": "include",
-          "hasBlock": true,
-        },
-        {
-          "type": "at-rule",
           "name": "return",
         },
       ],

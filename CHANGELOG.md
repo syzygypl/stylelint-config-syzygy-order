@@ -1,3 +1,6 @@
+# TBA
+- Don't force non-blockless `@include` to be at the end.
+
 # 2.0.1
 - Add `gap` property
 
