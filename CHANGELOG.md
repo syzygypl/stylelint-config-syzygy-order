@@ -1,4 +1,4 @@
-# TBA
+# 2.1.0
 - Add `stylelint` v15 and `stylelint-order` v6 compatibility.
 
 # 2.0.2
