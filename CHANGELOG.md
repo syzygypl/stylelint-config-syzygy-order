@@ -1,4 +1,4 @@
-# TBA
+# 2.2.0
 - Add support for `stylelint` ^16,
 
 # 2.1.0
