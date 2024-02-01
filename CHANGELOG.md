@@ -1,5 +1,8 @@
+# TBA
+- Add support for `stylelint` ^16,
+
 # 2.1.0
-- Add `stylelint` v15 and `stylelint-order` v6 compatibility.
+- Add `stylelint` ^15 and `stylelint-order` ^6 compatibility.
 
 # 2.0.2
 - Don't force non-blockless `@include` to be at the end.
