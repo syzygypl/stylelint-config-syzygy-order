@@ -35,6 +35,15 @@ module.exports = {
           "emptyLineBefore": "never",
           "order": "flexible",
           "properties": [
+            "container",
+            "container-name",
+            "container-type",
+          ],
+        },
+        {
+          "emptyLineBefore": "never",
+          "order": "flexible",
+          "properties": [
             "position",
             "top",
             "right",

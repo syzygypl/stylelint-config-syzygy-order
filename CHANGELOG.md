@@ -1,3 +1,6 @@
+# TBA
+- Add `container`, `container-name` and `container-type` properties
+
 # 2.2.0
 - Add support for `stylelint` ^16,
 
