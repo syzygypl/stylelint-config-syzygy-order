@@ -1,4 +1,4 @@
-# TBA
+# 2.2.1
 - Add `container`, `container-name` and `container-type` properties
 
 # 2.2.0
