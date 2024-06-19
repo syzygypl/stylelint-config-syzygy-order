@@ -1,4 +1,4 @@
-# TBA
+# 2.2.2
 - Add missing `inset` property
 - 
 # 2.2.1
