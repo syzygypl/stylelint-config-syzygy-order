@@ -1,3 +1,6 @@
+# TBA
+- Add missing `inset` property
+- 
 # 2.2.1
 - Add `container`, `container-name` and `container-type` properties
 

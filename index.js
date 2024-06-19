@@ -45,6 +45,7 @@ module.exports = {
           "order": "flexible",
           "properties": [
             "position",
+            "inset",
             "top",
             "right",
             "bottom",
