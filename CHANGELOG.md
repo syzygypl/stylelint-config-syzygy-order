@@ -1,3 +1,7 @@
+# TBA
+- Add missing `row-gap` and `column-gap` properties.
+- Properties list clean-up.
+
 # 2.2.3
 - Add CSS [logical properties](https://www.w3.org/TR/css-logical-1/).
 
