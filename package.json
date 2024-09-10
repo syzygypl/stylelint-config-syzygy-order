@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-syzygy-order",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "SYZYGY stylelint config for declaration order",
   "keywords": [
     "stylelint",
