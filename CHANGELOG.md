@@ -1,5 +1,5 @@
-# TBA
-- Add bunch of missing `text-*` properties.
+# 2.2.5
+- Add a bunch of missing `text-*` properties.
 
 # 2.2.4
 - Add missing `row-gap` and `column-gap` properties.
