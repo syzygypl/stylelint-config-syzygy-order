@@ -86,9 +86,10 @@ module.exports = {
             "grid-template",
             ...withSuffixes("grid-template", ["areas", "columns", "rows"]),
 
+            "columns",
+            ...withSuffixes("column", ["fill", "gap", "rule", "rule-color", "rule-style", "rule-width", "span", "width"]),
             "gap",
             "row-gap",
-            "column-gap",
 
             "flex",
             ...withSuffixes("flex", ["basis", "direction", "flow", "grow", "shrink", "wrap"]),
