@@ -1,16 +1,12 @@
-TBA
-- Add column related properties (`columns` and `column-*`).
-
-# 2.2.4
-- Add missing `row-gap` and `column-gap` properties.
-- Properties list clean-up.
-
-# 2.2.3
-- Add CSS [logical properties](https://www.w3.org/TR/css-logical-1/).
+# 2.2.6
+- Add a bunch of missing properties:
+    - CSS [logical properties](https://www.w3.org/TR/css-logical-1/).
+    - Column related properties (`columns` and `column-*`).
+    - Text related (`text-*`) properties.
 
 # 2.2.2
 - Add missing `inset` property
-- 
+
 # 2.2.1
 - Add `container`, `container-name` and `container-type` properties
 
