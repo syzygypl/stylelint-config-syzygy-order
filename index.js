@@ -37,6 +37,12 @@ module.exports = {
         {
           "emptyLineBefore": "never",
           "properties": [
+            "all",
+          ],
+        },
+        {
+          "emptyLineBefore": "never",
+          "properties": [
             "content",
           ],
         },
